@@ -1,6 +1,6 @@
 # RBF-NLD
 
-Context: Steady-state performance constraints for dynamical models based on RBF networks. Engineering Application of Artificial Intelligence, vol. 20, issue 7.
+Context: Steady-state performance constraints for dynamical models based on RBF networks. Engineering Applications of Artificial Intelligence, vol. 20, issue 7.
 
 ctrsim: Builds a regression matrix with symmetric RBF centers; each line corresponds to a specific center; number of columns is equal to (nu>nul) + (ny>nyl).
 
